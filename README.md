@@ -17,9 +17,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Screenshots
 <p>
-<img src="" height="500">
-<img src="" height="500">
-<img src="" height="500" >
+<img src="https://user-images.githubusercontent.com/100294737/224552813-9cf47d48-cb5e-4a0a-8093-e5eaf36d3147.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/224552819-4ef60d2f-7f2f-4c6c-be64-c05dbb737f7e.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/224552821-31a1aeed-88ad-4917-bd8a-4e0993d195de.jpg" height="500" >
 
 <p>
     
@@ -29,9 +29,7 @@ Here's a walkthrough of implemented user stories:
 *   [Firebase Cloud Storage](https://firebase.google.com/docs/storage/)
 *   [Glide](https://github.com/bumptech/glide/)
 
-## Notes
-
-Describe any challenges encountered while building the app.
+# Work in progress:)
 
 ## License
 
