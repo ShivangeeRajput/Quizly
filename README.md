@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/224552725-6d2af58c-9354-4cf2-9802-1605bd2aefa4.gif" height="500">
 
 ## Screenshots
 <p>
