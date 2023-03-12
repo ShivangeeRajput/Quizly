@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Slash"
+    android:background="@color/white">
+
+ <ImageView
+     android:id="@+id/iv"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:rotation="-360"
+     android:rotationX="360"
+     tools:srcCompat="@tools:sample/avatars" />
+
+
+ <TextView
+     android:id="@+id/tv"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_above="@id/tv1"
+     android:layout_alignParentEnd="false"
+     android:layout_alignParentBottom="true"
+     android:layout_marginBottom="74dp"
+     android:foregroundGravity="bottom"
+     android:gravity="center"
+     android:text="QUIZLY"
+     android:textColor="#000000"
+     android:textSize="34sp"
+     android:textStyle="bold" />
+
+ <TextView
+     android:id="@+id/tv1"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_alignParentEnd="false"
+     android:layout_alignParentBottom="true"
+     android:layout_marginBottom="30dp"
+     android:foregroundGravity="bottom"
+
+     android:gravity="center"
+     android:text="All rights are reserved"
+     android:textColor="#000000"
+     android:textSize="18sp"
+     android:textStyle="bold" />
+
+</RelativeLayout>
