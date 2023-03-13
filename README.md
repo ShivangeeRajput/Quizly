@@ -6,6 +6,7 @@ The following **required** functionality is completed:
 * [x] Animated Splash Screen. 
 * [x] User can click on Sign in button and create an account.
 * [x] User can  click on Log in button.
+* [x] User can use the App Drawer for multiple purposes.
 
 
 ## Video Walkthrough
@@ -20,6 +21,7 @@ Here's a walkthrough of implemented user stories:
 <img src="https://user-images.githubusercontent.com/100294737/224552813-9cf47d48-cb5e-4a0a-8093-e5eaf36d3147.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/224552819-4ef60d2f-7f2f-4c6c-be64-c05dbb737f7e.jpg" height="500">
 <img src="https://user-images.githubusercontent.com/100294737/224552821-31a1aeed-88ad-4917-bd8a-4e0993d195de.jpg" height="500" >
+ <img src="https://user-images.githubusercontent.com/100294737/224715660-50cbb42a-b742-43a7-8b10-db1527a0efdb.jpg" height="500" >
 
 <p>
     
@@ -29,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 *   [Firebase Cloud Storage](https://firebase.google.com/docs/storage/)
 *   [Glide](https://github.com/bumptech/glide/)
 
-# Work in progress:)
+ Work in progress:)
 
 ## License
 
